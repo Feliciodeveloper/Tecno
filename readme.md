@@ -10,12 +10,6 @@ Projeto desenvolvido para fins educacionais, afim de consolidar todo o conteudo 
 
 Parte de um front-end de um sistema de venda de produtos
 
-### Instalação
-
-```
-npm install
-```
-
 ### Compilação
 
 ```
